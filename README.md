@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudarshandevadiga" alt="sudarshandevadiga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sudarsh55350118" target="blank"><img src="https://img.shields.io/twitter/follow/sudarsh55350118?logo=twitter&style=for-the-badge" alt="sudarsh55350118" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Anything**
