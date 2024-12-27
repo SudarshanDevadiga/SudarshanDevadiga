@@ -18,7 +18,7 @@
 <a href="https://twitter.com/sudarsh55350118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudarsh55350118" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudarshan-devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan devadiga" height="30" width="40" /></a>
 <a href="https://instagram.com/sudarshan.devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudarshan.devadiga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iamnotsudarshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamnotsudarshan" height="30" width="40" /></a>
+<a href="https://youtube.com/@iamnotsudarshan?si=nQ27zA46fV6VJpEM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iamnotsudarshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
