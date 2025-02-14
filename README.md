@@ -2,8 +2,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&lines=Hi+I'm+Sudarshan" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sudarshan+Devadiga!;" />
 </h1>
 
 
