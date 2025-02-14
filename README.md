@@ -1,3 +1,6 @@
+<img src="banner_github.gif" alt="GitHub Banner" width="100%" />
+
+
 <h1 align="center">Hi 👋, I'm Sudarshan Devadiga</h1>
 <h3 align="center">A passionate B.Tech Student from India</h3>
 
