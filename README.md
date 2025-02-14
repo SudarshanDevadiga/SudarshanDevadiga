@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshandevadiga&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshandevadiga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudarshandevadiga" alt="sudarshandevadiga" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Anything**
@@ -43,3 +41,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudarshandevadiga" alt="sudarshandevadiga" /></a> </p>
